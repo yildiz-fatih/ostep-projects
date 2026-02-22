@@ -1,0 +1,10 @@
+# tester output
+tests-out/
+
+# common C artifacts
+*.o
+*.a
+*.so
+
+# OS-specific clutter
+.DS_Store
